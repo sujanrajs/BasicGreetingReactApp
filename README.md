@@ -1,6 +1,6 @@
 
 
-# This app greets according to user's local time zone !
+# This app greets according to user's local time zone ! without components
 
 # [Live Demo](https://basicgreetingreact.netlify.app/)
 
